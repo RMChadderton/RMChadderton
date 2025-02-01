@@ -2,14 +2,7 @@
 
 I'm currently pursuing an MSc in Artificial Intelligence and Data Science at the University of Hull. My work focuses on integrating Optical Character Recognition (OCR) and Large Language Models (LLMs) with Explainable AI (XAI) to automate audit processes, ensuring compliance with IFRS and ASC standards. 
 
-My thesis, **"Automating Audit Processes through OCR, LLMs, and Explainable AI"**, explores how these technologies can streamline audit workflows while aligning with established financial reporting and auditing guidelines.
-
-## Highlights
-
-- **OCR Integration:** Extracting and processing text from various document formats.
-- **LLM Applications:** Leveraging advanced language models to derive actionable insights.
-- **Explainable AI (XAI):** Ensuring transparency and interpretability in audit automation.
-- **Standards Compliance:** Incorporating IFRS (International Financial Reporting Standards) and ASC (Auditing Standards Codification) to maintain robust audit processes.
+My thesis, **"Automating Audit Processes through OCR, LLMs, and Explainable AI"**, explores how these technologies can streamline audit workflows while aligning with established financial reporting and auditing guidelines. IFRS and GAAP are accounting standards that have corresponding audit standards that take a lot of time and money to confirm adherence to.
 
 ## Technologies
 
