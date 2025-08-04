@@ -1,4 +1,4 @@
-# INTERESTED IN FINE-TUNED SMALL LANGUAGE MODELS, THEIR USE IN MULTI-AGENT SYSTEMS, AND EXPLAINABLE AI (XAI/AdvAI)
+# Interested in Fine-Tuned Small Language Models, Their Use in Multi-Agent Systems, and Explanable AI (XAI/AdvAI)
 
 I'm currently pursuing an MSc in Artificial Intelligence and Data Science at the University of Hull with a supplementary course from HarvardX in Computer Science for AI. My interests are in integrating Multi-Agent Systems (MAS), Small Language Models (SLMs), and Explanable AI (XAI) to automate real estate brokerage processes on a local machine, ensuring compliance with state statutes and privacy standards and in a separate capacity, making real estate services the price that they should be (estimated 5x cheaper than they currently stand, at 2.5% of the sales price to list the home as the norm).
 
